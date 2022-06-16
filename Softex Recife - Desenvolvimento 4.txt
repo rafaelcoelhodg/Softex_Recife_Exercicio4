@@ -1,0 +1,55 @@
+Softex - Lógica de Programação e Orientação a Objetos
+
+Exercício Desenvolvimento 4
+
+Var
+  nome			: caractere
+  nomedopai, nomedamae	: caractere
+  endereco, cidade	: caractere
+  cpf, rg	 	: inteiro
+  peso, rendabruta	: real
+
+Início
+
+  Escreva ("Digite seu Nome: ")
+  Leia (nome)
+
+  Escreva ("Digite seu Endereço: ")
+  Leia (endereco)
+
+  Escreva ("Digite sua Cidade: ")
+  Leia (cidade)
+
+  Escreva ("Digite seu CPF: ")
+  Leia (cpf)
+
+  Escreva ("Digite seu RG: ")
+  Leia (rg)
+
+  Escreva ("Digite sua Idade: ")
+  Leia (idade)
+
+  Escreva ("Digite o Nome do Pai: ")
+  Leia (nomedopai)
+
+  Escreva ("Digite o Nome da Mãe: ")
+  Leia (nomedamae)
+
+  Escreva ("Digite seu peso: ")
+  Leia (peso)
+
+  Escreva ("Digite sua Renda Bruta: ")
+  Leia (rendabruta)
+
+  Escreva ("Seu Nome é: ", nome)
+  Escreva ("Seu Endereço é: ", endereco)
+  Escreva ("Sua Cidade é: ", cidade)
+  Escreva ("Seu CPF é: ", cpf)
+  Escreva ("Seu RG é: ", rg)
+  Escreva ("Sua idade é: ", idade)
+  Escreva ("O Nome do Pai é: ", nomedopai)
+  Escreva ("O Nome da Mãe é: ", nomedamae)
+  Escreva ("Seu Peso é: ", peso)
+  Escreva ("Sua Renda Bruta é: ", rendabruta)
+
+Fim
